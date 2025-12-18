@@ -88,8 +88,8 @@ body {
 ========================= */
 .section-hero {
   height: 400px;
-  background: linear-gradient(rgba(0,0,0,0.55), rgba(0,0,0,0.55)),
-    url("./Images/lahore (2).png") center/cover no-repeat;
+ background: linear-gradient(rgba(0,0,0,0.55), rgba(0,0,0,0.55)),
+    url("./lahore (2).png") center/cover no-repeat;
   position: relative;
 }
 
@@ -517,3 +517,4 @@ body {
     font-size: 1.3rem;
   }
 }
+
